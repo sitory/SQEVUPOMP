@@ -8,7 +8,7 @@
 - [Bladecoder Adventure Engine](https://github.com/bladecoder/bladecoder-adventure-engine)
 - [Ink](https://www.inklestudios.com/ink/)
 ### IDE
-- https://www.jetbrains.com/idea/
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 ### Other
-- https://github.com/Yzubi/Fbx-conv-installer-Linux
-- https://github.com/Yzubi/Blade-Engine-Local-Patcher
+- [Fbx-conv-installer-Linux](https://github.com/Yzubi/Fbx-conv-installer-Linux)
+- [Blade-Engine-Local-Patcher](https://github.com/Yzubi/Blade-Engine-Local-Patcher)
