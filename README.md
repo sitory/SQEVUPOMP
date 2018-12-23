@@ -6,6 +6,7 @@
 ### Game engine
 - [LibGDX](https://libgdx.badlogicgames.com/)
 - [Bladecoder Adventure Engine](https://github.com/bladecoder/bladecoder-adventure-engine)
+### Scripting narrative language
 - [Ink](https://www.inklestudios.com/ink/)
 ### IDE
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/)
