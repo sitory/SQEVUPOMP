@@ -8,6 +8,8 @@
 - [Bladecoder Adventure Engine](https://github.com/bladecoder/bladecoder-adventure-engine)
 ### Scripting narrative language
 - [Ink](https://www.inklestudios.com/ink/)
+- [Basic Ink tutorial](https://www.inklestudios.com/ink/web-tutorial/)
+- [WritingWithInk](https://github.com/inkle/ink/blob/master/Documentation/WritingWithInk.md)
 ### IDE
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 ### Website
