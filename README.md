@@ -6,6 +6,7 @@
 - [AzPainter](https://osdn.net/projects/azpainter/)
 - [Inkscape](https://inkscape.org/pt-br/)
 - [Blender](https://www.blender.org/)
+  - [Coa Tools - Blender Addon for 2D animation](https://github.com/ndee85/coa_tools)
 
 ### Game engine
 - [LibGDX](https://libgdx.badlogicgames.com/)
