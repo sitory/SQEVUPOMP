@@ -15,6 +15,7 @@
 - [Hugo Documentation Theme - docDock](https://themes.gohugo.io/docdock/)
 ### Other
 - [Fbx-conv-installer-Linux](https://github.com/Yzubi/Fbx-conv-installer-Linux)
+- [Blender G3D Exporter](https://github.com/Dancovich/libgdx_blender_g3d_exporter)
 - [Blade-Engine-Local-Patcher](https://github.com/Yzubi/Blade-Engine-Local-Patcher)
 - [Blade-Engine-3D-Character-Example/B-Spline-In-Blender](https://github.com/Yzubi/Blade-Engine-3D-Character-Example)
 - [Blade-Engine-2.5D](https://github.com/Yzubi/bladecoder-adventure-engine-2.5D)
