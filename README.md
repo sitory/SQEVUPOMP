@@ -18,11 +18,11 @@
 
 ### Scripting narrative language
 - [Ink](https://www.inklestudios.com/ink/)
--   [Basic Ink tutorial](https://www.inklestudios.com/ink/web-tutorial/)
--   [WritingWithInk](https://github.com/inkle/ink/blob/master/Documentation/WritingWithInk.md)
+  - [Basic Ink tutorial](https://www.inklestudios.com/ink/web-tutorial/)
+  - [WritingWithInk](https://github.com/inkle/ink/blob/master/Documentation/WritingWithInk.md)
 ### Blender to Libgdx export
 - [Fbx-conv-installer-Linux](https://github.com/Yzubi/Fbx-conv-installer-Linux)
 - [Blender G3D Exporter](https://github.com/Dancovich/libgdx_blender_g3d_exporter)
 ### Website
 - [Hugo](https://gohugo.io/)
--   [Hugo Documentation Theme - docDock](https://themes.gohugo.io/docdock/)
+  - [Hugo Documentation Theme - docDock](https://themes.gohugo.io/docdock/)
