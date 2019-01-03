@@ -31,5 +31,5 @@
   - [Hugo Documentation Theme - docDock](https://themes.gohugo.io/docdock/)
 ### Version-control
 - [Git](https://git-scm.com/)
-  -[Git Scripts](https://github.com/Yzubi/GitScripts)
-  -[Magit](https://magit.vc/)
+  - [Git Scripts](https://github.com/Yzubi/GitScripts)
+  - [Magit](https://magit.vc/)
