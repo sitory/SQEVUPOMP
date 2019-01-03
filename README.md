@@ -26,4 +26,5 @@
 - [Blender G3D Exporter](https://github.com/Dancovich/libgdx_blender_g3d_exporter)
 ### Website
 - [Hugo](https://gohugo.io/)
+  - [Hugo minimal Theme - Minimo](https://themes.gohugo.io/minimo/)
   - [Hugo Documentation Theme - docDock](https://themes.gohugo.io/docdock/)
