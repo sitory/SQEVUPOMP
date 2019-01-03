@@ -1,6 +1,7 @@
 
 ### IDE
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+- [Emacs](https://www.gnu.org/software/emacs/)
 
 ### Art
 - [AzPainter](https://osdn.net/projects/azpainter/)
@@ -28,3 +29,7 @@
 - [Hugo](https://gohugo.io/)
   - [Hugo minimal Theme - Minimo](https://themes.gohugo.io/minimo/)
   - [Hugo Documentation Theme - docDock](https://themes.gohugo.io/docdock/)
+### Version-control
+- [Git](https://git-scm.com/)
+  -[Git Scripts](https://github.com/Yzubi/GitScripts)
+  -[Magit](https://magit.vc/)
