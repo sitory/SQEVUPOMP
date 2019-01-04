@@ -4,7 +4,7 @@
 - [Emacs](https://www.gnu.org/software/emacs/)
 
 ### Art
-- [AzPainter](https://osdn.net/projects/azpainter/)
+- [AzPainter](https://osdn.net/projects/azpainter/) [Install](https://github.com/sitory/azpainter-install/tree/master)
 - [Inkscape](https://inkscape.org/pt-br/)
 - [Blender](https://www.blender.org/)
   - [Coa Tools - Blender Addon for 2D animation](https://github.com/ndee85/coa_tools)
