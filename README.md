@@ -6,7 +6,7 @@
 ### Art
 - [AzPainter](https://osdn.net/projects/azpainter/) [- Install](https://github.com/sitory/azpainter-install/tree/master)
 - [Inkscape](https://inkscape.org/pt-br/)
-- [Blender](https://www.blender.org/)
+- [Blender](https://www.blender.org/) - [Binaries](https://download.blender.org/release/) - [Source](https://download.blender.org/source/)
   - [Coa Tools - Blender Addon for 2D animation](https://github.com/ndee85/coa_tools)
 
 ### Game engine
