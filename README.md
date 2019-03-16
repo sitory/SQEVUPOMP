@@ -1,6 +1,6 @@
 
 ### IDE
-- [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+- [VSCode](https://code.visualstudio.com/)
 - [Emacs](https://www.gnu.org/software/emacs/)
 
 ### Art
